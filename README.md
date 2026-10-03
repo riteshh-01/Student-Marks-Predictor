@@ -2,6 +2,12 @@
 
 This project is a machine learning notebook that predicts a student's expected marks based on their study hours. It applies a Linear Regression algorithm to model the linear relationship between an independent variable (study hours) and a single dependent variable (student marks).
 
+# Student Marks Predictor
+Predicts a student's marks based on their study hours using Linear Regression.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/riteshh-01/Student-Marks-Predictor/blob/main/student_marks_prediction.ipynb)
+
+
 ## ✨ Features
 * **Data Preprocessing**: Checks for missing values within the dataset and automatically fills empty data points with the column's mean value.
 * **Data Visualization**: Generates a scatter plot (styled in pink) to visually analyze the relationship between "Study Hours" and "Student Marks".
